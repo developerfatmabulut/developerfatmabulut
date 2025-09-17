@@ -1,4 +1,4 @@
-# Merhaba, ben [Adınız Soyadınız] 👋
+# Merhaba, ben Fatma BULUT👋
 
 Yazılım dünyasına adım atan hevesli bir **.NET** 🚀 geliştiricisiyim. Patika.dev'in kapsamlı **.NET** 🎓 eğitim programı aracılığıyla kendimi sürekli geliştiriyor ve bu alandaki bilgimi pekiştiriyorum.
 
