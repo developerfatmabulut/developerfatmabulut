@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, ben [Adınız Soyadınız] 👋
 
-<!--
-**developerfatmabulut/developerfatmabulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım dünyasına adım atan hevesli bir **.NET** 🚀 geliştiricisiyim. Patika.dev'in kapsamlı **.NET** 🎓 eğitim programı aracılığıyla kendimi sürekli geliştiriyor ve bu alandaki bilgimi pekiştiriyorum.
 
-Here are some ideas to get you started:
+## Öğrenim Yolculuğum 🗺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bu GitHub profili, **.NET** maceramı ve bu süreçte geliştirdiğim projeleri sergilemek için bir portföy niteliği taşıyor. Şu an için odaklandığım temel konular şunlardır:
+
+* **C# Programlama Dili:** 💻 Nesne Yönelimli Programlama (OOP) prensipleri ve dilin temel yapıları.
+* **.NET ve ASP.NET Core:** 🌐 Web uygulamaları ve API'ler geliştirmek için **.NET** ekosistemi.
+* **Veri Tabanı Yönetimi:** 💾 SQL ve ORM araçları (Entity Framework Core) ile veri tabanı işlemleri.
+* **Temel Yazılım Prensipleri:** 💡 SOLID prensipleri, temiz kod yazma ve tasarım desenleri.
+
+## Projelerim 🏗️
+
+Öğrenim sürecim boyunca geliştirdiğim veya üzerinde çalıştığım bazı projeleri burada bulabilirsiniz. Her bir proje, edindiğim teorik bilgileri pratiğe döktüğüm birer kanıt niteliğindedir.
